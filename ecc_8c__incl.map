@@ -1,0 +1,17 @@
+<map id="src/ecc.c" name="src/ecc.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,5,199,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="99,225,169,251"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,31,140,211,134,211,155,31"/>
+<area shape="rect" id="Node000003" href="$ecc_8h.html" title="3&#45;bit ECC implementation for error correction on little&#45;endian systems" alt="" coords="165,79,221,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,30,184,65,179,67,162,32"/>
+<area shape="rect" id="Node000004" href="$ecc__util_8h.html" title=" " alt="" coords="5,152,89,177"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="151,33,111,80,65,142,61,139,107,77,147,29"/>
+<area shape="rect" id="Node000006" href="$ecc__err_8h.html" title=" " alt="" coords="218,152,298,177"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="181,29,209,49,235,77,249,108,257,137,252,139,244,109,230,80,205,53,178,33"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="190,105,146,213,141,211,185,103"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="170,106,84,148,82,144,168,102"/>
+<area shape="poly" id="edge7_Node000003_Node000006" title=" " alt="" coords="205,103,240,140,236,144,201,106"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="63,175,111,214,108,219,60,179"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="7,225,74,251"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="49,178,46,212,40,212,44,177"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="include/ecc_util.h" name="include/ecc_util.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="448,5,583,31"/>
+<area shape="rect" id="Node000002" href="$ecc_8h.html" title="3&#45;bit ECC implementation for error correction on little&#45;endian systems" alt="" coords="417,79,523,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="503,44,480,80,475,77,498,41"/>
+<area shape="rect" id="Node000005" href="$ecc_8c.html" title=" " alt="" coords="545,152,624,177"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="529,42,582,151,577,153,525,45"/>
+<area shape="rect" id="Node000003" href="$benchmark_8cpp.html" title=" " alt="" coords="5,152,204,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,108,164,155,163,149,403,103"/>
+<area shape="rect" id="Node000004" href="$example_8cpp.html" title=" " alt="" coords="228,152,395,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="433,112,338,154,336,149,431,107"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="501,109,567,150,565,154,498,113"/>
+<area shape="rect" id="Node000006" href="$test_8cpp.html" title=" " alt="" coords="419,152,521,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="473,118,473,152,467,152,467,118"/>
+</map>

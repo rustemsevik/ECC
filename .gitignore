@@ -1,0 +1,16 @@
+# Compiled object files
+*.o
+*.out
+
+# LaTeX temporary files
+*.aux
+*.log
+*.pdf
+
+# Build directory
+/build/*
+!build/.gitkeep
+
+# OS-specific files
+.DS_Store
+Thumbs.db

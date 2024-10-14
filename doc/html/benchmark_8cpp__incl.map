@@ -1,0 +1,18 @@
+<map id="benchmark/benchmark.cpp" name="benchmark/benchmark.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,5,357,31"/>
+<area shape="rect" id="Node000002" href="$ecc_8h.html" title="3&#45;bit ECC implementation for error correction on little&#45;endian systems" alt="" coords="138,79,194,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,33,193,72,190,68,242,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,225,76,251"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="218,33,174,50,126,75,82,109,64,130,50,153,42,182,41,212,35,211,36,182,45,151,60,127,78,105,123,70,172,45,216,28"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="186,225,253,251"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="266,30,277,57,287,95,290,137,288,158,282,178,268,201,250,218,246,215,264,197,277,176,283,157,285,137,281,95,271,59,261,32"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="342,79,433,104"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="280,28,355,69,353,74,278,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="139,105,102,124,84,138,68,154,53,182,46,212,41,211,48,180,64,150,80,134,99,120,137,100"/>
+<area shape="rect" id="Node000004" href="$ecc__util_8h.html" title=" " alt="" coords="79,152,163,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="161,106,138,142,133,139,156,103"/>
+<area shape="rect" id="Node000006" href="$ecc__err_8h.html" title=" " alt="" coords="187,152,267,177"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="178,103,210,140,206,143,174,106"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="110,179,66,218,62,214,106,175"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="138,175,194,215,191,219,135,180"/>
+</map>
